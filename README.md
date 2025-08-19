@@ -1,1 +1,3 @@
-# PhdApply
+# Gradkit Pro 
+This is a macOS application called "GradKit Pro" that helps users manage their PhD applications. It allows users to track universities, professors, and scholarships in a
+spreadsheet-like interface. Moreover, anyone can use this for other professional or academic works according to their needs. Everything is customizable. Key features include a dashboard with an overview of deadlines and summaries, a Kanban board to visualize application stages, and the ability to customize columns, sort and filter data. The app also supports data import/export via CSV and has both light and dark modes.
